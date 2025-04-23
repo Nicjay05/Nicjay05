@@ -11,7 +11,7 @@
     <header>
         <div class="container">
             <nav>
-                <h1 class="logo">Nicjay</h1>
+                <h1 class="logo">Nic Jay Avisado</h1>
                 <ul class="nav-links">
                     <li><a href="#about">About</a></li>
                     <li><a href="#skills">Skills</a></li>
@@ -20,7 +20,7 @@
                 </ul>
             </nav>
             <div class="header-content">
-                <h2>Hi, I'm Nicjay</h2>
+                <h2>Hi, I'm Nic Jay Avisado</h2>
                 <p>A Web Developer and Designer creating impactful digital experiences.</p>
                 <a href="#contact" class="btn-primary">Get in Touch</a>
             </div>
