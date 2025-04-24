@@ -1,9 +1,9 @@
-# 🧑‍💻 Your Name  
-**Software Engineer | Full-Stack Developer | Open Source Enthusiast**
+# 🧑‍💻 Nic Jay Avisado
+** A Computer Engineering Student at University of Bohol**
 
-📍 Your Location · 📧 your.email@example.com  
+📍 Tagbilaran City, Bohol · 📧 nicjayavisado@gmail.com 
 🌐 [yourwebsite.com](https://yourwebsite.com) ·  
-🐙 [github.com/yourusername](https://github.com/yourusername)
+🐙 [github.com/Nicjay05](https://github.com/Nicjay05)
 
 ---
 
@@ -16,10 +16,7 @@ I'm a passionate software engineer focused on building scalable web applications
 ## 🧠 Skills
 
 **Languages:**  
-JavaScript · Python · TypeScript · C++ · HTML · CSS · SQL
-
-**Frameworks & Libraries:**  
-React · Node.js · Express · Next.js · Tailwind CSS · Bootstrap · Flask
+JavaScript · Java · C++ · HTML · CSS · SQL
 
 **Tools & Platforms:**  
 Git · GitHub · Postman · MongoDB · MySQL · Firebase · Vercel · Netlify
@@ -46,9 +43,9 @@ Description of what it solves or why it's cool.
 
 ## 🎓 Education
 
-**B.S. in Your Course**  
+**Bachelor of Science in Computer Engineering**  
 _University of Bohol (UB)_  
-📅 2021 – Present
+📅 2024 – Present
 
 ---
 
