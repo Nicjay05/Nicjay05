@@ -2,7 +2,7 @@
 ** A Computer Engineering Student at University of Bohol**
 
 📍 Tagbilaran City, Bohol · 📧 nicjayavisado@gmail.com 
-🌐 [yourwebsite.com](https://yourwebsite.com) ·  
+🌐 (https://nicjay05.github.io/Nicjay05/) ·  
 🐙 [github.com/Nicjay05](https://github.com/Nicjay05)
 
 ---
