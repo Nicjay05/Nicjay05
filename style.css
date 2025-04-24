@@ -1,0 +1,110 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px;
+  border-radius: 10px;
+  background-color: #d5c2ad;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  opacity: 0;
+  animation: fadeIn 2s forwards;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  opacity: 0;
+  animation: slideIn 1s forwards;
+  animation-delay: 1s;
+}
+
+@keyframes slideIn {
+  from { transform: translateY(-50px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+h2 {
+  text-align: left;
+  font-size: 1.8em;
+  margin-bottom: 10px;
+  opacity: 0;
+  animation: slideIn 1s forwards;
+  animation-delay: 1.5s;
+}
+
+.contact-info {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.profile-image {
+  display: block;
+  margin: 20px auto;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 3px solid #1d72b8;
+  opacity: 0;
+  animation: fadeIn 2s forwards;
+  animation-delay: 2s;
+}
+
+.skills, .projects, .education {
+  margin-bottom: 30px;
+}
+
+.skills ul, .projects ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.skills li, .projects li {
+  margin: 8px 0;
+}
+
+.project-button {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: #1d72b8;
+  color: white;
+  text-align: center;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  opacity: 0;
+  animation: buttonFadeIn 2s forwards;
+}
+
+.project-button:hover {
+  background-color: #155a8a;
+}
+
+@keyframes buttonFadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.divider {
+  border-top: 1px solid #ddd;
+  margin: 20px 0;
+}
+
+.counter {
+  text-align: center;
+  margin-top: 20px;
+}
