@@ -19,7 +19,7 @@ I'm an aspiring web developer student who is studying at university and making a
 JavaScript · Java · C++ · HTML · CSS · SQL
 
 **Tools & Platforms:**  
-Git · GitHub · Postman · MongoDB · MySQL · Firebase · Vercel · Netlify
+Git · GitHub · MySQL 
 
 ---
 
