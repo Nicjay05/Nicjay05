@@ -1,133 +1,105 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Nic Jay Avisado | Portfolio CV</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nic Jay Avisado | Portfolio</title>
   <style>
-    * {
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f4f8;
+      color: #333;
       margin: 0;
       padding: 0;
-      box-sizing: border-box;
-      font-family: 'Inter', sans-serif;
-    }
-    body {
-      background-color: #f9f9f9;
-      color: #333;
-      line-height: 1.6;
-      padding: 2rem;
     }
     .container {
-      max-width: 900px;
+      max-width: 800px;
       margin: 0 auto;
+      padding: 30px;
+      border-radius: 10px;
+      background-color: #ffffff;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     }
-    header {
+    h1, h2 {
       text-align: center;
-      margin-bottom: 2rem;
     }
-    h1 {
-      font-size: 2.5rem;
-      margin-bottom: 0.5rem;
+    .contact-info {
+      text-align: center;
+      margin-bottom: 20px;
     }
-    p.title {
-      font-size: 1.2rem;
-      color: #666;
+    .skills, .projects, .education {
+      margin-bottom: 30px;
     }
-    .contact, .section {
-      margin-bottom: 2rem;
+    .skills ul, .projects ul {
+      list-style-type: none;
+      padding: 0;
     }
-    a {
-      color: #007acc;
+    .skills li, .projects li {
+      margin: 8px 0;
+    }
+    .project, .achievement {
+      margin-bottom: 15px;
+    }
+    .project a {
+      color: #1d72b8;
       text-decoration: none;
     }
-    h2 {
-      font-size: 1.5rem;
-      border-bottom: 2px solid #007acc;
-      padding-bottom: 0.3rem;
-      margin-bottom: 1rem;
+    .project a:hover {
+      text-decoration: underline;
     }
-    ul {
-      list-style-type: disc;
-      padding-left: 1.5rem;
-    }
-    .project {
-      margin-bottom: 1.5rem;
-    }
-    @media (max-width: 600px) {
-      body {
-        padding: 1rem;
-      }
-      h1 {
-        font-size: 2rem;
-      }
+    .counter {
+      text-align: center;
+      margin-top: 20px;
     }
   </style>
 </head>
 <body>
+
   <div class="container">
-    <header>
-      <h1>Nic Jay Avisado</h1>
-      <p class="title">A Computer Engineering Student at University of Bohol</p>
-      <p class="contact">
-        📍 Tagbilaran City, Bohol · 📧 <a href="nicjayavisado@gmail.com">nicjayavisado@gmail.com</a><br>
-        🌐 <a href="https://nicjay05.github.io/Nicjay05/">https://nicjay05.github.io/Nicjay05/</a> ·
-        🐙 <a href="https://github.com/Nicjay05">github.com/Nicjay05</a>
-      </p>
-    </header>
+    <h1>Hey there, I'm Nic Jay Avisado 👋</h1>
+    <p class="contact-info">
+      <b>Computer Engineering Student</b> · <b>Aspiring Web Developer</b><br>
+      📍 Tagbilaran City, Bohol | 📧 <a href="mailto:nicjayavisado@gmail.com">nicjayavisado@gmail.com</a> | 🌐 <a href="https://nicjay05.github.io/Nicjay05/">Website</a> | 🐙 <a href="https://github.com/Nicjay05">GitHub</a>
+    </p>
 
-    <section class="section">
-      <h2>About Me</h2>
-      <p>
-       I'm an aspiring web developer student who is studying at university and making a dream come true someday.
-      </p>
-    </section>
+    <hr>
 
-    <section class="section">
-      <h2>Skills</h2>
-      <p><strong>Languages:</strong> JavaScript, Java, C++, HTML, CSS, SQL</
-      <p><strong>Tools & Platforms:</strong> Git, GitHub, MySQL</p>
-    </section>
+    <h2>👨‍💼 About Me</h2>
+    <p>I'm an aspiring web developer student studying at the University of Bohol, working on making my dreams come true someday.</p>
 
-    <section class="section">
-      <h2>Projects</h2>
-      <div class="project">
-        <h3><a href="https://github.com/yourusername/project-repo">Project Name</a></h3>
-        <p>Café POS System</p
-      </div>
-      <div class="project">
-        <h3><a href="https://github.com/yourusername/another-repo">Another Project</a></h3>
-        <p>Description of what it solves or why it's cool.</p>
-        <ul>
-          <li>Tech Stack: Next.js, Firebase, Tailwind CSS</li>
-          <li>Key Feature: Dark mode toggle, SSR, Firestore integration</li>
-          <li>Demo: <a href="https://example.com">Live Site</a></li>
-        </ul>
-      </div>
-    </section>
-
-    <section class="section">
-      <h2>Education</h2>
-      <p><strong>B.S. in Your Course</strong><br>
-      University of Bohol (UB)<br>
-      2021 – Present</p>
-    </section>
-
-    <section class="section">
-      <h2>Achievements & Certifications</h2>
+    <h2>🧠 Skills</h2>
+    <div class="skills">
+      <h3>Languages:</h3>
       <ul>
-        <li>🥇 Hackathon Winner – Event Name</li>
-        <li>📜 Certification in Course/Skill – Platform</li>
-        <li>⭐ Top Contributor in Open Source Project</li>
+        <li>JavaScript · Java · C++ · HTML · CSS · SQL</li>
       </ul>
-    </section>
+      <h3>Tools & Platforms:</h3>
+      <ul>
+        <li>Git · GitHub · Postman · MongoDB · MySQL · Firebase · Vercel · Netlify</li>
+      </ul>
+    </div>
 
-    <section class="section">
-      <h2>Let's Connect</h2>
-      <p>
-        I'm always open to connecting, collaborating, or just geeking out about tech. Feel free to reach out!
-      </p>
-    </section>
+    <h2>🛠 Projects</h2>
+    <div class="projects">
+      <ul>
+        <li><b>📌 Café POS System</b></li>
+        <li><b>📌 Sumo Bot</b></li>
+        <li><b>📌 Café & Pastry Website</b></li>
+      </ul>
+    </div>
+
+    <h2>🎓 Education</h2>
+    <p><b>Bachelor of Science in Computer Engineering</b><br>University of Bohol (UB)<br>📅 2024 – Present</p>
+
+    <h2>📫 Let's Connect</h2>
+    <p>I'm always open to connecting, collaborating, or just geeking out about tech. Feel free to reach out!</p>
+
+    <hr>
+
+    <div class="counter">
+      <img src="https://komarev.com/ghpvc/?username=Nicjay05&label=Profile+Views" alt="view counter"/>
+    </div>
   </div>
+
 </body>
 </html>
