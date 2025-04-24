@@ -1,4 +1,4 @@
-#🧑‍💻 Hey there, I'm Nic Jay Avisado
+# 🧑‍💻 Hey there, I'm Nic Jay Avisado
  A Computer Engineering Student at University of Bohol
 
 📍 Tagbilaran City, Bohol · 📧 nicjayavisado@gmail.com 
