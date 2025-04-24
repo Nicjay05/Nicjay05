@@ -1,5 +1,5 @@
 Hey there, I'm Nic Jay Avisado 👋
-![Nic Jay Avisado](https://path-to-your-profile-picture.jpg)
+![Nic Jay Avisado](https://475070880_3994649320811052_5500024692728314031_n.jpg)
 Computer Engineering Student · Aspiring Web Developer
 📍 Tagbilaran City, Bohol | 📧 nicjayavisado@gmail.com | 🌐 Website | 🐙 GitHub
 
