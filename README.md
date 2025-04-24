@@ -9,7 +9,7 @@
 
 ## 👨‍💼 About Me
 
-I'm a passionate software engineer focused on building scalable web applications and clean user experiences. I enjoy contributing to open-source and constantly exploring new technologies.
+I'm an aspiring web developer student who is studying at university and making a dream come true someday.
 
 ---
 
@@ -25,19 +25,11 @@ Git · GitHub · Postman · MongoDB · MySQL · Firebase · Vercel · Netlify
 
 ## 🛠 Projects
 
-### 📌 [Project Name](https://github.com/yourusername/project-repo)  
-A brief one-liner about what the project does.
+ 📌  Café POS System 
 
-- **Tech Stack:** React, Node.js, MongoDB  
-- **Features:** Authentication, Real-time chat, RESTful API  
-- **Demo:** [Live Link](https://yourprojectlink.com)
+ 📌 Sumo Bot
 
-### 📌 [Another Project](https://github.com/yourusername/another-repo)  
-Description of what it solves or why it's cool.
-
-- **Tech Stack:** Next.js, Firebase, Tailwind CSS  
-- **Key Feature:** Dark mode toggle, SSR, Firestore integration  
-- **Demo:** [Live Site](https://example.com)
+ 📌 Café & Pastry Website 
 
 ---
 
@@ -46,14 +38,6 @@ Description of what it solves or why it's cool.
 **Bachelor of Science in Computer Engineering**  
 _University of Bohol (UB)_  
 📅 2024 – Present
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🥇 Hackathon Winner – Event Name  
-- 📜 Certification in Course/Skill – Platform  
-- ⭐ Top Contributor in Open Source Project
 
 ---
 
