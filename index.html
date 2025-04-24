@@ -21,14 +21,26 @@
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     }
     h1 {
-      text-align: center; /* Only this is centered */
+      text-align: center;
+      font-size: 2.5em;
+      margin-bottom: 20px;
     }
     h2 {
-      text-align: left; /* Other headers are left-aligned */
+      text-align: left;
+      font-size: 1.8em;
+      margin-bottom: 10px;
     }
     .contact-info {
       text-align: center;
       margin-bottom: 20px;
+    }
+    .profile-image {
+      display: block;
+      margin: 20px auto;
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      border: 3px solid #1d72b8;
     }
     .skills, .projects, .education {
       margin-bottom: 30px;
@@ -54,18 +66,26 @@
       text-align: center;
       margin-top: 20px;
     }
+    .divider {
+      border-top: 1px solid #ddd;
+      margin: 20px 0;
+    }
   </style>
 </head>
 <body>
 
   <div class="container">
     <h1>Hey there, I'm Nic Jay Avisado 👋</h1>
+    
+    <!-- Profile Image -->
+    <img src="your-profile-picture.jpg" alt="Nic Jay Avisado" class="profile-image">
+    
     <p class="contact-info">
       <b>Computer Engineering Student</b> · <b>Aspiring Web Developer</b><br>
       📍 Tagbilaran City, Bohol | 📧 <a href="mailto:nicjayavisado@gmail.com">nicjayavisado@gmail.com</a> | 🌐 <a href="https://nicjay05.github.io/Nicjay05/">Website</a> | 🐙 <a href="https://github.com/Nicjay05">GitHub</a>
     </p>
 
-    <hr>
+    <div class="divider"></div>
 
     <h2>👨‍💼 About Me</h2>
     <p>I'm an aspiring web developer student studying at the University of Bohol, working on making my dreams come true someday.</p>
@@ -96,8 +116,6 @@
 
     <h2>📫 Let's Connect</h2>
     <p>I'm always open to connecting, collaborating, or just geeking out about tech. Feel free to reach out!</p>
-
-    <hr>
 
     <div class="counter">
       <img src="https://komarev.com/ghpvc/?username=Nicjay05&label=Profile+Views" alt="view counter"/>
