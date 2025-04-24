@@ -1,24 +1,48 @@
-Hey there, I'm Nic Jay Avisado 👋
-![Nic Jay Avisado](https://475070880_3994649320811052_5500024692728314031_n.jpg)
-Computer Engineering Student · Aspiring Web Developer
-📍 Tagbilaran City, Bohol | 📧 nicjayavisado@gmail.com | 🌐 Website | 🐙 GitHub
+#🧑‍💻 Nic Jay Avisado
+#👋 Hey there, I'm Nic Jay Avisado a Computer Engineering Student at University of Bohol
 
-👨‍💼 About Me
-I'm an aspiring web developer student studying at the University of Bohol, working on making my dreams come true someday.
+📍 Tagbilaran City, Bohol · 📧 nicjayavisado@gmail.com 
+🌐 (https://nicjay05.github.io/Nicjay05/) ·  
+🐙 [github.com/Nicjay05](https://github.com/Nicjay05)
 
-🧠 Skills
-Languages:
+---
+
+## 👨‍💼 About Me
+
+I'm an aspiring web developer student who is studying at university and making a dream come true someday.
+
+---
+
+## 🧠 Skills
+
+**Languages:**  
 JavaScript · Java · C++ · HTML · CSS · SQL
-Tools & Platforms:
+
+**Tools & Platforms:**  
 Git · GitHub · Postman · MongoDB · MySQL · Firebase · Vercel · Netlify
-🛠 Projects
-📌 Café POS System
-📌 Sumo Bot
-📌 Café & Pastry Website
-🎓 Education
-Bachelor of Science in Computer Engineering
-University of Bohol (UB)
+
+---
+
+## 🛠 Projects
+
+ 📌  Café POS System 
+
+ 📌 Sumo Bot
+
+ 📌 Café & Pastry Website 
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Engineering**  
+_University of Bohol (UB)_  
 📅 2024 – Present
 
-📫 Let's Connect
+---
+
+## 📫 Let's Connect
+
 I'm always open to connecting, collaborating, or just geeking out about tech. Feel free to reach out!
+
+---
