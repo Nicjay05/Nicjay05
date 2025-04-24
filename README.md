@@ -11,7 +11,7 @@
     <header>
         <div class="container">
             <nav>
-                <h1 class="logo">Nic Jay Avisado</h1>
+                <h1 class="logo">Nicjay</h1>
                 <ul class="nav-links">
                     <li><a href="#about">About</a></li>
                     <li><a href="#skills">Skills</a></li>
@@ -20,7 +20,7 @@
                 </ul>
             </nav>
             <div class="header-content">
-                <h2>Hi, I'm Nic Jay Avisado</h2>
+                <h2>Hi, I'm Nicjay</h2>
                 <p>A Web Developer and Designer creating impactful digital experiences.</p>
                 <a href="#contact" class="btn-primary">Get in Touch</a>
             </div>
@@ -42,7 +42,11 @@
                 <div class="skills-grid">
                     <div class="skill-card">HTML</div>
                     <div class="skill-card">CSS</div>
-                    <div class="skill-card">JavaScript</di>
+                    <div class="skill-card">JavaScript</div>
+                    <div class="skill-card">React</div>
+                    <div class="skill-card">Node.js</div>
+                    <div class="skill-card">Python</div>
+                    <div class="skill-card">Django</div>
                     <div class="skill-card">UI/UX Design</div>
                 </div>
             </div>
@@ -53,15 +57,15 @@
                 <div class="projects-grid">
                     <div class="project-card">
                         <h3>Project 1</h3>
-                        <p>Cafe POS System</p>
+                        <p>A task management web app with an intuitive interface and real-time updates.</p>
                     </div>
                     <div class="project-card">
                         <h3>Project 2</h3>
-                        <p>Sumo Bot Competetion</p>
+                        <p>A portfolio website showcasing my skills and work history in a professional manner.</p>
                     </div>
                     <div class="project-card">
                         <h3>Project 3</h3>
-                        <p>Cafe & Pastry Website</p>
+                        <p>An e-commerce platform with dynamic product pages and secure payment integration.</p>
                     </div>
                 </div>
             </div>
