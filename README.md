@@ -42,11 +42,7 @@
                 <div class="skills-grid">
                     <div class="skill-card">HTML</div>
                     <div class="skill-card">CSS</div>
-                    <div class="skill-card">JavaScript</div>
-                    <div class="skill-card">React</div>
-                    <div class="skill-card">Node.js</div>
-                    <div class="skill-card">Python</div>
-                    <div class="skill-card">Django</div>
+                    <div class="skill-card">JavaScript</di>
                     <div class="skill-card">UI/UX Design</div>
                 </div>
             </div>
@@ -57,15 +53,15 @@
                 <div class="projects-grid">
                     <div class="project-card">
                         <h3>Project 1</h3>
-                        <p>A task management web app with an intuitive interface and real-time updates.</p>
+                        <p>Cafe POS System</p>
                     </div>
                     <div class="project-card">
                         <h3>Project 2</h3>
-                        <p>A portfolio website showcasing my skills and work history in a professional manner.</p>
+                        <p>Sumo Bot Competetion</p>
                     </div>
                     <div class="project-card">
                         <h3>Project 3</h3>
-                        <p>An e-commerce platform with dynamic product pages and secure payment integration.</p>
+                        <p>Cafe & Pastry Website</p>
                     </div>
                 </div>
             </div>
