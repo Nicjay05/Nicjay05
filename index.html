@@ -1,71 +1,139 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nic Jay Avisado - Portfolio</title>
-    <link rel="stylesheet" href="styles.css">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Your Name | Portfolio CV</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Inter', sans-serif;
+    }
+    body {
+      background-color: #f9f9f9;
+      color: #333;
+      line-height: 1.6;
+      padding: 2rem;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+    }
+    p.title {
+      font-size: 1.2rem;
+      color: #666;
+    }
+    .contact, .section {
+      margin-bottom: 2rem;
+    }
+    a {
+      color: #007acc;
+      text-decoration: none;
+    }
+    h2 {
+      font-size: 1.5rem;
+      border-bottom: 2px solid #007acc;
+      padding-bottom: 0.3rem;
+      margin-bottom: 1rem;
+    }
+    ul {
+      list-style-type: disc;
+      padding-left: 1.5rem;
+    }
+    .project {
+      margin-bottom: 1.5rem;
+    }
+    @media (max-width: 600px) {
+      body {
+        padding: 1rem;
+      }
+      h1 {
+        font-size: 2rem;
+      }
+    }
+  </style>
 </head>
 <body>
-    <div class="container">
-        <div class="header">
-            <div class="profile-picture">
-                <img src="your-profile-picture.jpg" alt="Nic Jay Avisado">
-            </div>
-            <div class="header-content">
-                <h1>NIC JAY AVISADO</h1>
-                <h2>Editor</h2>
-            </div>
-        </div>
-        <div class="main-content">
-            <div class="left-column">
-                <div class="contact">
-                    <h3>Contact</h3>
-                    <ul>
-                        <li><a href="tel:+63910162414">+63910162414</a></li>
-                        <li><a href="mailto:nicjayavisado@gmail.com">nicjayavisado@gmail.com</a></li>
-                        <li>Pedulic St., Talisay, Tagbilaran City, Bohol</li>
-                    </ul>
-                </div>
-                <div class="education">
-                    <h3>Education</h3>
-                    <ul>
-                        <li>Technical Vocational Livelihood track: ANIMATION</li>
-                        <li>Sr. Carlos P. Garcia Ave., Tagbilaran City, 6300 Bohol</li>
-                    </ul>
-                </div>
-            </div>
-            <div class="right-column">
-                <div class="objective">
-                    <h3>Objectives</h3>
-                    <p>To work for a well-established company as an asset to further enhance and acquire additional knowledge and skills in video editing, and to excel in the field of multimedia arts.</p>
-                </div>
-                <div class="skills">
-                    <h3>Skills</h3>
-                    <ul>
-                        <li>Video/Photo Editing</li>
-                        <li>Spreadsheet</li>
-                        <li>Text Processor</li>
-                    </ul>
-                </div>
-                <div class="language">
-                    <h3>Language</h3>
-                    <ul>
-                        <li>Filipino</li>
-                        <li>English</li>
-                    </ul>
-                </div>
-                <div class="experience">
-                    <h3>Work Experience</h3>
-                    <ul>
-                        <li>Travel Videos Editor - 2019-2020</li>
-                        <li>Assistant Videographer/Photographer - 2019-2020</li>
-                        <li>Illustrator at Yako-Sei Art Studio - Feb-Mar 2023</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
+  <div class="container">
+    <header>
+      <h1>Your Name</h1>
+      <p class="title">Software Engineer | Full-Stack Developer | Open Source Enthusiast</p>
+      <p class="contact">
+        📍 Your Location · 📧 <a href="mailto:your.email@example.com">your.email@example.com</a><br>
+        🌐 <a href="https://yourwebsite.com">yourwebsite.com</a> ·
+        🐙 <a href="https://github.com/yourusername">github.com/yourusername</a>
+      </p>
+    </header>
+
+    <section class="section">
+      <h2>About Me</h2>
+      <p>
+        I'm a passionate software engineer focused on building scalable web applications and clean user experiences. I enjoy contributing to open-source and constantly exploring new technologies.
+      </p>
+    </section>
+
+    <section class="section">
+      <h2>Skills</h2>
+      <p><strong>Languages:</strong> JavaScript, Python, TypeScript, C++, HTML, CSS, SQL</p>
+      <p><strong>Frameworks & Libraries:</strong> React, Node.js, Express, Next.js, Tailwind CSS, Bootstrap, Flask</p>
+      <p><strong>Tools & Platforms:</strong> Git, GitHub, Postman, MongoDB, MySQL, Firebase, Vercel, Netlify</p>
+    </section>
+
+    <section class="section">
+      <h2>Projects</h2>
+      <div class="project">
+        <h3><a href="https://github.com/yourusername/project-repo">Project Name</a></h3>
+        <p>A brief one-liner about what the project does.</p>
+        <ul>
+          <li>Tech Stack: React, Node.js, MongoDB</li>
+          <li>Features: Authentication, Real-time chat, RESTful API</li>
+          <li>Demo: <a href="https://yourprojectlink.com">Live Link</a></li>
+        </ul>
+      </div>
+      <div class="project">
+        <h3><a href="https://github.com/yourusername/another-repo">Another Project</a></h3>
+        <p>Description of what it solves or why it's cool.</p>
+        <ul>
+          <li>Tech Stack: Next.js, Firebase, Tailwind CSS</li>
+          <li>Key Feature: Dark mode toggle, SSR, Firestore integration</li>
+          <li>Demo: <a href="https://example.com">Live Site</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Education</h2>
+      <p><strong>B.S. in Your Course</strong><br>
+      University of Bohol (UB)<br>
+      2021 – Present</p>
+    </section>
+
+    <section class="section">
+      <h2>Achievements & Certifications</h2>
+      <ul>
+        <li>🥇 Hackathon Winner – Event Name</li>
+        <li>📜 Certification in Course/Skill – Platform</li>
+        <li>⭐ Top Contributor in Open Source Project</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>Let's Connect</h2>
+      <p>
+        I'm always open to connecting, collaborating, or just geeking out about tech. Feel free to reach out!
+      </p>
+    </section>
+  </div>
 </body>
 </html>
