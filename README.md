@@ -1,63 +1,67 @@
-🧑‍💻 Your Name
-Software Engineer | Full-Stack Developer | Open Source Enthusiast
+# 🧑‍💻 Your Name  
+**Software Engineer | Full-Stack Developer | Open Source Enthusiast**
 
-📍 Location · 📧 your.email@example.com · 🌐 yourwebsite.com
-📱 LinkedIn: linkedin.com/in/yourprofile
-🐙 GitHub: github.com/yourusername
+📍 Your Location · 📧 your.email@example.com  
+🌐 [yourwebsite.com](https://yourwebsite.com) ·  
+🐙 [github.com/yourusername](https://github.com/yourusername)
 
-👨‍💼 About Me
-I'm a passionate software engineer with a strong focus on building scalable web applications and intuitive user experiences. I love solving problems, contributing to open-source projects, and constantly learning new technologies. My current interests include modern JavaScript frameworks, backend systems, and clean UI design.
+---
 
-🧠 Skills
-Languages:
-JavaScript Python TypeScript C++ HTML CSS SQL
+## 👨‍💼 About Me
 
-Frameworks & Libraries:
-React Node.js Express Next.js Tailwind CSS Bootstrap Flask
+I'm a passionate software engineer focused on building scalable web applications and clean user experiences. I enjoy contributing to open-source and constantly exploring new technologies.
 
-Tools & Platforms:
-Git GitHub Postman MongoDB MySQL Firebase Vercel Netlify
+---
 
-🛠 Projects
-📌 Project Name
+## 🧠 Skills
+
+**Languages:**  
+JavaScript · Python · TypeScript · C++ · HTML · CSS · SQL
+
+**Frameworks & Libraries:**  
+React · Node.js · Express · Next.js · Tailwind CSS · Bootstrap · Flask
+
+**Tools & Platforms:**  
+Git · GitHub · Postman · MongoDB · MySQL · Firebase · Vercel · Netlify
+
+---
+
+## 🛠 Projects
+
+### 📌 [Project Name](https://github.com/yourusername/project-repo)  
 A brief one-liner about what the project does.
 
-Tech Stack: React, Node.js, MongoDB
+- **Tech Stack:** React, Node.js, MongoDB  
+- **Features:** Authentication, Real-time chat, RESTful API  
+- **Demo:** [Live Link](https://yourprojectlink.com)
 
-Features: Authentication, Real-time chat, RESTful API
-
-Demo: Live Link
-
-📌 Another Project
+### 📌 [Another Project](https://github.com/yourusername/another-repo)  
 Description of what it solves or why it's cool.
 
-Tech Stack: Next.js, Firebase, Tailwind CSS
+- **Tech Stack:** Next.js, Firebase, Tailwind CSS  
+- **Key Feature:** Dark mode toggle, SSR, Firestore integration  
+- **Demo:** [Live Site](https://example.com)
 
-Key Feature: Dark mode toggle, SSR, Firestore integration
+---
 
-Demo: Live Site
+## 🎓 Education
 
-🎓 Education
-B.S. in [Your Course]
-University of Bohol (UB)
+**B.S. in Your Course**  
+_University of Bohol (UB)_  
 📅 2021 – Present
 
-💼 Experience (Optional)
-[Position] – [Company]
-📍 [Location] · 🗓 [Start Date] – [End Date]
+---
 
-Bullet points about what you did
+## 🏆 Achievements & Certifications
 
-Technologies used
+- 🥇 Hackathon Winner – Event Name  
+- 📜 Certification in Course/Skill – Platform  
+- ⭐ Top Contributor in Open Source Project
 
-Achievements if any
+---
 
-🏆 Achievements & Certifications
-🥇 Hackathon Winner – [Event Name]
+## 📫 Let's Connect
 
-📜 Certification in [Course/Skill] – [Platform]
-
-⭐ Top Contributor in [Open Source Project]
-
-📫 Let's Connect!
 I'm always open to connecting, collaborating, or just geeking out about tech. Feel free to reach out!
+
+---
